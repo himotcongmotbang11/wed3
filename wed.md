@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Xin chào </h1>
-    <p>Đây là trang web đầu tiên em tự tay lập trình bằng HTML</p>
+    <p>Đây là trang web đầu tiên trên github lập trình bằng HTML</p>
 </body>
 </html>
